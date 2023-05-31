@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pad-lop" alt="pad-lop" /></a> </p>
 
-- 🔭 I’m currently working on [PyERP, which is an administrative app for local business](https://github.com/pad-lop/pyerp-client)
+- 🔭 I’m currently working on [PyERP, which is a business managent app, making both client and api
+- Desktop Client: (https://github.com/pad-lop/pyerp-client)
+- API: (https://github.com/pad-lop/pyerp-api)
 
 - 🌱 I’m currently learning **Advanced React and Python**
 

@@ -12,16 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm a Computer Science student, currently starting my 3rd year 😛
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU5ZWYxMDM5ZGQ4NmE4MWMyOTk2OTMzYTgyOTAzYWQzZDViMmMwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/v8jUfaclrsG9x8At9Z/giphy.gif" width="100"/>
   
 </div>
-
-
-
-
-I'm a Computer Science student, currently starting my 3rd year 
 
 
 

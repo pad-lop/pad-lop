@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### About me
 I'm a Computer Science student, currently starting my 3rd year
 
 

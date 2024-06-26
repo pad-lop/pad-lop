@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pad-lop" alt="pad-lop" /></a> </p>
 
-- 🔭 I’m currently working on PyERP, which is a business managent app, making both Client and API c:
-    - Desktop Client: (https://github.com/pad-lop/pyerp-client)
-    - API: (https://github.com/pad-lop/pyerp-api)
+- 🔭 The most important project I’m currently working on is an ERP, which will be the core component for many future projects.
+- I'm using Rust for the most important services, Java and Python for the innovative services. And the chosen technology for the frontend was Angular.
 
-- 🌱 I’m currently learning **Advanced React and Python**
+
+- 🌱 I’m currently specializing in  **Angular and Spring Boot (Java)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pad-lop](https://github.com/pad-lop)
 
